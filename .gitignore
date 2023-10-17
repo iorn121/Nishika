@@ -1,0 +1,13 @@
+myenv
+*.ipynb_checkpoints
+*.pyc
+__pycache__
+*.csv
+*.log
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.xlsx
+*.pkl
