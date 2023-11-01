@@ -11,3 +11,7 @@ __pycache__
 *.pdf
 *.xlsx
 *.pkl
+*.xml
+*.zip
+*.dat
+*.avi
